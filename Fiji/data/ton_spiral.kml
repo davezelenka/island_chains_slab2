@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="KmlFile">
+	<gx:CascadingStyle kml:id="__managed_style_242C81E2B53BF2A38F7E">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_11F0C2084B3BF2A38F7E">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0B246093AF3BF2A38F7E">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_11F0C2084B3BF2A38F7E</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_242C81E2B53BF2A38F7E</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="084EF0F8A93BFB7FA5D6">
+		<name>Ton_spiral</name>
+		<LookAt>
+			<longitude>176.4996341142381</longitude>
+			<latitude>-20.52312996441</latitude>
+			<altitude>-5211.230711682886</altitude>
+			<heading>1.034950837593442</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>5043676.123951077</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B246093AF3BF2A38F7E</styleUrl>
+		<LineString>
+			<coordinates>
+				178.424777385615,-18.38813843671104,0 177.7501475355268,-18.45489907919885,0 177.1078206385478,-18.1972350973003,0 176.8353904014674,-17.49810616470128,0 176.917977715173,-16.89738846206183,0 177.7021187398858,-16.47956866932078,0 178.5091096875231,-16.08903703422084,0 179.3870732814122,-15.71009802333254,0 -179.759197994172,-15.70955363272824,0 -178.8161874770706,-15.98409910438555,0 -178.3329974721211,-16.79524104457797,0 -178.0312077405652,-18.50258908908235,0 -177.8962370224306,-19.64268344461386,0 -177.8366205213115,-20.51053787562727,0 -177.9162851662334,-21.4367725723495,0 -178.2023197160462,-22.82138614334733,0 -178.2923441483688,-24.13310515432545,0 -178.5877975673712,-25.68207773351643,0 -178.7703122728221,-27.0784360197,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
+<?earth data="CooHCocHCt8GChQwODRFRjBGOEE5M0JGQjdGQTVENhLVBRJFChIZ17Jo2OuFNMAhzJOuAP0PZkARzbzrDztbtMAYASEC6AacKI_wPykAAAAAAAAAADGA0O4Hdz1TQUEAAAAAAIBBQFABGAEiClRvbl9zcGlyYWwqADIAOgQKABIAQAJK2wQS2AQS1QQKHQoSGZb-YwpdYzLAIX9pvsaXTWZAKQAAAAAAAAAACh0KEhm7IxxEdHQywCFniGc1AThmQCkAAAAAAAAAAAodChIZNYfU_30yMsAhsoxERHMjZkApAAAAAAAAAAAKHQoSGfhTt-KDfzHAIT22poS7GmZAKQAAAAAAAAAACh0KEhkCXRBAu-UwwCEAJM0SYB1mQCkAAAAAAAAAAAodChIZQusmA8V6MMAh_Da4wXc2ZkApAAAAAAAAAAAKHQoSGYEcjiHLFjDAIaA_ZqBKUGZAKQAAAAAAAAAACh0KEhnFVdb3kWsvwCFFmoHnYmxmQCkAAAAAAAAAAAodChIZzaYenUprL8AhCYWXWUt4ZsApAAAAAAAAAAAKHQoSGbi3etbb9y_AIYktMzUeWmbAKQAAAAAAAAAACh0KEhk15sbqlMswwCEmjVDqp0pmwCkAAAAAAAAAAAodChIZY--0ramAMsAhgCNgp_9AZsApAAAAAAAAAAAKHQoSGRJM-OaGpDPAIbmZQ_mtPGbAKQAAAAAAAAAACh0KEhk-MDecsoI0wCE_RmaYxTpmwCkAAAAAAAAAAAodChIZ6AfKU9BvNcAhCNlENVI9ZsApAAAAAAAAAAAKHQoSGXoQv1xG0jbAISN4Mmd5RmbAKQAAAAAAAAAACh0KEhnAwewtEyI4wCF6jR3iWklmwCkAAAAAAAAAAAodChIZa8h2pZyuOcAh4xDYPM9SZsApAAAAAAAAAAAKHQoSGZ5wC2IUFDvAIU5v7GWmWGbAKQAAAAAAAAAAEAIYACAAKAByAIIBDgoGCAESAggBEgQIARABiAEBMm8KIgogCgMI0A8aBwjS7WUQ_wEhAAAAAAAA8D8pAAAAAAAAAAASDQoICK2A7wcQ_wEQoB8aGAoHCP___wcQQBIICK2A7wcQ_wEYoB8gACIJCAESBQj___8HKhUIARIICP___wcQ_wEZAAAAAAAA8D8SABohMURkakI5alVfd3Rucl94cFNDMk1JdDlwMGJtVXFDMm53"?>
